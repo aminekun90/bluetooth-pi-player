@@ -43,7 +43,7 @@ python-engineio==4.9.0
 python-socketio==5.11.2
 PyYAML==6.0.1
 ratelim==0.1.6
-requests==2.31.0
+requests==2.32.0
 schedule==1.2.1
 setuptools==69.5.1
 simple-websocket==1.0.0
